@@ -1,0 +1,20 @@
+.orange{
+    margin-top: 0px;
+    border-top: 1px solid orange;
+    margin-bottom: 0px;
+}
+.orange2{
+    margin-top: 5px;
+    border-top: 1px solid orange;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+form.subscribe2{
+    margin left: 40px;
+}
+.subs{
+    margin-top: 2px;
+    background-color:#3f3f3f; 
+}
